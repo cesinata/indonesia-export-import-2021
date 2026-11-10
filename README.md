@@ -17,6 +17,18 @@ figures for August 2021, and the final output was an infographic
 background, as written in 2021, are in
 [docs/original_readme.md](docs/original_readme.md).
 
+### Infographic in English
+
+The original infographic is in Indonesian. An English version is available as
+[figures/infographic_en.html](figures/infographic_en.html) (open the file in a
+browser) and as a static image:
+
+![English version of the infographic](figures/infographic_en.png)
+
+The English version translates the 2021 text. Its charts are redrawn from the
+CSVs in `data/raw/`. Footnotes on the page mark where the original differs from
+the data or the notebooks.
+
 The original working folders were labelled "SIC". In Satria Data 2021 this most likely
 means the Statistics Infographic Competition category. [TO CONFIRM: competition category]
 
