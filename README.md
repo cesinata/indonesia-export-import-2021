@@ -144,3 +144,8 @@ replace the call with `pd.concat` in your own copy.
 In 2026 an AI assistant (Claude) helped write this README and rename the files
 and folders. The analysis, notebooks, data selection and infographic are the
 original 2021 team work.
+
+## Licence
+
+The notebooks, documentation and figures are released under the [MIT License](LICENSE).
+The trade data in `data/raw/` is not covered. It remains subject to UN Comtrade's terms.
